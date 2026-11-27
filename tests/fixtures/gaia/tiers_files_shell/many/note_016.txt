@@ -1,3 +1,0 @@
-Note 016
-owner: Farah
-status: ok

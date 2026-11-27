@@ -1,3 +1,0 @@
-Note 002
-owner: Tomasz
-status: ok

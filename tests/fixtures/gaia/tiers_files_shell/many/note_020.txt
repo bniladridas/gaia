@@ -1,3 +1,0 @@
-Note 020
-owner: Tomasz
-status: ok

@@ -1,3 +1,0 @@
-Note 056
-owner: Tomasz
-status: ok

@@ -1,3 +1,0 @@
-Note 003
-owner: Yuki
-status: ok

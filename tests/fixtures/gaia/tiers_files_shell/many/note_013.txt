@@ -1,4 +1,0 @@
-Note 013
-owner: Marek
-status: ok
-TODO(eval): P2 tidy section 13

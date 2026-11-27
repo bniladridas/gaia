@@ -1,3 +1,0 @@
-Note 012
-owner: Ines
-status: ok

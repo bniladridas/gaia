@@ -1,3 +1,0 @@
-Note 044
-owner: Tomasz
-status: ok

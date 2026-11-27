@@ -1,3 +1,0 @@
-Note 024
-owner: Ines
-status: ok

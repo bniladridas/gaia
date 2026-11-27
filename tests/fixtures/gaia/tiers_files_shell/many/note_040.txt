@@ -1,3 +1,0 @@
-Note 040
-owner: Farah
-status: ok

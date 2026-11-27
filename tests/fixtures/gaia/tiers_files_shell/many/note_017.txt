@@ -1,3 +1,0 @@
-Note 017
-owner: Lior
-status: ok

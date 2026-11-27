@@ -1,4 +1,0 @@
-Note 059
-owner: Lior
-status: ok
-TODO(eval): P2 tidy section 59

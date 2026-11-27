@@ -1,3 +1,0 @@
-Note 022
-owner: Farah
-status: ok

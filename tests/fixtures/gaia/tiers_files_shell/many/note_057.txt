@@ -1,3 +1,0 @@
-Note 057
-owner: Yuki
-status: ok

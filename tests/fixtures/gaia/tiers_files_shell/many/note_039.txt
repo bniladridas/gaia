@@ -1,3 +1,0 @@
-Note 039
-owner: Yuki
-status: ok

@@ -1,4 +1,0 @@
-Atlas team roster
-Priya Natarajan - owner
-Dmitri Volkov - backend
-Amara Okafor - design

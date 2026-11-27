@@ -1,3 +1,0 @@
-Note 026
-owner: Tomasz
-status: ok

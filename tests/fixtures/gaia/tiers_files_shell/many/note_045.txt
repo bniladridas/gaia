@@ -1,3 +1,0 @@
-Note 045
-owner: Yuki
-status: ok

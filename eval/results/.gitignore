@@ -1,5 +1,0 @@
-# Eval run outputs are local artifacts. The committed flagship baselines live
-# in tests/fixtures/eval_baselines/; only the `--save-baseline` target is kept.
-*
-!.gitignore
-!baseline.json

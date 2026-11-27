@@ -1,3 +1,0 @@
-Note 007
-owner: Marek
-status: ok

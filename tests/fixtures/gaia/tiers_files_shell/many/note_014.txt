@@ -1,3 +1,0 @@
-Note 014
-owner: Tomasz
-status: ok

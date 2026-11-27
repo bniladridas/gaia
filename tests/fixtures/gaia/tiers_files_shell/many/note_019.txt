@@ -1,3 +1,0 @@
-Note 019
-owner: Marek
-status: ok

@@ -1,3 +1,0 @@
-Note 027
-owner: Yuki
-status: ok

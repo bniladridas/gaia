@@ -1,3 +1,0 @@
-Note 006
-owner: Ines
-status: ok

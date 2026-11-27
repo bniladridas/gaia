@@ -1,3 +1,0 @@
-Note 034
-owner: Farah
-status: ok

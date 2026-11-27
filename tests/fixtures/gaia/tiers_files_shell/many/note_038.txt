@@ -1,3 +1,0 @@
-Note 038
-owner: Tomasz
-status: ok

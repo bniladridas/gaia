@@ -1,3 +1,0 @@
-Note 028
-owner: Farah
-status: ok

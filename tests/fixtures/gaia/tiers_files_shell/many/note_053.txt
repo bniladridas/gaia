@@ -1,3 +1,0 @@
-Note 053
-owner: Lior
-status: ok
